@@ -1,16 +1,17 @@
 {
   "item": {
-    "id": "com.HNTPVZchv.watch.demo",
+    "id": "com.hazenotea.pvz.watch",
     "restype": "quick_app",
     "name": "植物大战僵尸",
-    "description": "经典的植物大战僵尸一代游戏，且完全免费\n包含42种植物、20种僵尸、42个关卡、3个地图\n尽力还原经典的植物大战僵尸一代，在此二创了一些新的玩法和机制，游戏代码古法手搓重写，只为了更加流畅\n亲手测试10和10pro，部分设备未经测试请自行安装测试",
+    "description": "这是植物大战僵尸重制版，游戏代码几乎全部重写。\n游戏尽量复刻经典的植物大战僵尸1代，受限于手环性能，所以看上去有些粗糙，且一些机制有所改动。\n我是僵尸及以后的新模式收费，之前的模式不受影响可以免费游玩，之前赞助过的可以直接凭爱发电订单号激活新模式。\n由于游戏改动过大，本次更新是全新的一个应用，需要手动删除旧版本。\n目前有45种植物、22种僵尸、3种地图、42个免费关卡，6个收费关卡。\n本次更新修复了卡加载中的问题。\n游戏QQ交流群：1101713503。\n亲手测试10和10pro，部分设备未经测试请自行安装测试。",
     "preview": [
       "media/xiaomi_band_pro-2026-08-16-20-47-12.png",
+      "media/45植物.png",
       "media/xiaomi_band_pro-2026-08-16-20-48-01.png",
       "media/xiaomi_band_pro-2026-08-16-20-50-13.png",
       "media/xiaomi_band_pro-2026-08-16-20-53-06.png",
-      "media/xiaomi_band_pro-2026-08-16-20-48-19.png",
-      "media/xiaomi_band_pro-2026-09-10-12-55-32.png"
+      "media/我是僵尸模式.png",
+      "media/xiaomi_band_pro-2026-08-16-20-48-19.png"
     ],
     "icon": "media/logo-256.png",
     "cover": "media/2：3-低分辨率.png",
@@ -26,28 +27,33 @@
       "title": "赞助作者",
       "url": "https://afdian.com/a/HazeNoTea",
       "icon": "BatteryCharging"
+    },
+    {
+      "title": "游戏图鉴/资讯网站",
+      "url": "https://hazenotea.github.io/HNT-PVZ/",
+      "icon": "Notebook"
     }
   ],
   "downloads": {
     "xmrw5": {
-      "version": "1.7.5",
-      "file_name": "downloads/PVZ重制版v1.7.5全平台通用.rpk"
+      "version": "1.8.6",
+      "file_name": "downloads/PVZ重置v1.8.6全平台通用.rpk"
     },
     "xmrw5xring": {
-      "version": "1.7.5",
-      "file_name": "downloads/PVZ重制版v1.7.5全平台通用.rpk"
+      "version": "1.8.6",
+      "file_name": "downloads/PVZ重置v1.8.6全平台通用.rpk"
     },
     "xmrw6": {
-      "version": "1.7.5",
-      "file_name": "downloads/PVZ重制版v1.7.5全平台通用.rpk"
+      "version": "1.8.6",
+      "file_name": "downloads/PVZ重置v1.8.6全平台通用.rpk"
     },
     "xmb10": {
-      "version": "1.7.5",
-      "file_name": "downloads/PVZ重制版v1.7.5全平台通用.rpk"
+      "version": "1.8.6",
+      "file_name": "downloads/PVZ重置v1.8.6全平台通用.rpk"
     },
     "xmb10nfc": {
-      "version": "1.7.5",
-      "file_name": "downloads/PVZ重制版v1.7.5全平台通用.rpk"
+      "version": "1.8.6",
+      "file_name": "downloads/PVZ重置v1.8.6全平台通用.rpk"
     },
     "xmws4xring": {
       "version": "1.7.5",
@@ -62,8 +68,8 @@
       "file_name": "downloads/PVZ重制版v1.7.5全平台通用.rpk"
     },
     "xmb10p": {
-      "version": "1.7.5",
-      "file_name": "downloads/PVZ重制版v1.7.5全平台通用.rpk"
+      "version": "1.8.6",
+      "file_name": "downloads/PVZ重置v1.8.6全平台通用.rpk"
     }
   },
   "ext": {}
