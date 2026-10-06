@@ -3,7 +3,7 @@
     "id": "com.hazenotea.pvz.watch",
     "restype": "quick_app",
     "name": "植物大战僵尸",
-    "description": "游戏尽量复刻经典的植物大战僵尸1代，并加入了一些非原版内容，受限于手环性能，看上去有些粗糙，且一些机制有所改动。\n我是僵尸及以后的新模式收费，之前的模式不受影响可以免费游玩，之前赞助过的可以直接凭爱发电订单号激活新模式。\n由于游戏改动过大，本次更新是全新的一个应用，需要手动删除旧版本。\n目前有45种植物、22种僵尸、3种地图、42个免费关卡，6个收费关卡。\n本次更新修复了卡加载中的问题。\n游戏QQ交流群：1101713503。\n亲手测试10和10pro，部分设备未经测试请自行安装测试。",
+    "description": "50种植物、30种僵尸、3种地图、42个免费关卡无需激活，即可游玩！\n\n手环性能受限，略显粗糙，且部分机制有所改动。\n\n我是僵尸及以后的新模式需要激活，之前赞助过的可直接凭爱发电订单号激活新模式。\n\n游戏QQ交流群：1101713503。\n\n亲手测试米环10pro、9pro、10，均可正常游玩，其余设备为群友帮忙测试，有问题可进群讨论。",
     "preview": [
       "media/全新雷霆大图1200x800.png",
       "media/雷霆宣传图1200x800.png",
@@ -20,52 +20,81 @@
   },
   "links": [
     {
-      "title": "爱发电",
+      "title": "赞助作者",
       "url": "https://afdian.com/a/HazeNoTea",
-      "icon": "BatteryCharging"
+      "icon": "battery-charging"
     },
     {
       "title": "游戏图鉴/资讯网站",
       "url": "https://hazenotea.github.io/HNT-PVZ/",
-      "icon": "Notebook"
+      "icon": "notebook"
     }
   ],
   "downloads": {
     "xmrw5": {
-      "version": "1.8.6",
-      "file_name": "downloads/PVZ重置v1.8.6全平台通用.rpk"
+      "version": "1.9.5",
+      "file_name": "downloads/PVZ重制版v1.9.5全平台通用.rpk",
+      "versionCode": 20
     },
     "xmrw5xring": {
-      "version": "1.8.6",
-      "file_name": "downloads/PVZ重置v1.8.6全平台通用.rpk"
+      "version": "1.9.5",
+      "file_name": "downloads/PVZ重制版v1.9.5全平台通用.rpk",
+      "versionCode": 20
     },
     "xmrw6": {
-      "version": "1.8.6",
-      "file_name": "downloads/PVZ重置v1.8.6全平台通用.rpk"
+      "version": "1.9.5",
+      "file_name": "downloads/PVZ重制版v1.9.5全平台通用.rpk",
+      "versionCode": 20
     },
     "xmb10": {
-      "version": "1.8.6",
-      "file_name": "downloads/PVZ重置v1.8.6全平台通用.rpk"
+      "version": "1.9.5",
+      "file_name": "downloads/PVZ重制版v1.9.5全平台通用.rpk",
+      "versionCode": 20
     },
     "xmb10nfc": {
-      "version": "1.8.6",
-      "file_name": "downloads/PVZ重置v1.8.6全平台通用.rpk"
+      "version": "1.9.5",
+      "file_name": "downloads/PVZ重制版v1.9.5全平台通用.rpk",
+      "versionCode": 20
     },
     "xmws4xring": {
-      "version": "1.8.6",
-      "file_name": "downloads/PVZ重置v1.8.6全平台通用.rpk"
+      "version": "1.9.5",
+      "file_name": "downloads/PVZ重制版v1.9.5全平台通用.rpk",
+      "versionCode": 20
     },
     "xmws4": {
-      "version": "1.8.6",
-      "file_name": "downloads/PVZ重置v1.8.6全平台通用.rpk"
+      "version": "1.9.5",
+      "file_name": "downloads/PVZ重制版v1.9.5全平台通用.rpk",
+      "versionCode": 20
     },
     "xmws441": {
-      "version": "1.8.6",
-      "file_name": "downloads/PVZ重置v1.8.6全平台通用.rpk"
+      "version": "1.9.5",
+      "file_name": "downloads/PVZ重制版v1.9.5全平台通用.rpk",
+      "versionCode": 20
     },
     "xmb10p": {
-      "version": "1.8.6",
-      "file_name": "downloads/PVZ重置v1.8.6全平台通用.rpk"
+      "version": "1.9.5",
+      "file_name": "downloads/PVZ重制版v1.9.5全平台通用.rpk",
+      "versionCode": 20
+    },
+    "xmb11nfc": {
+      "version": "1.9.5",
+      "file_name": "downloads/PVZ重制版v1.9.5全平台通用.rpk",
+      "versionCode": 20
+    },
+    "xmb11": {
+      "version": "1.9.5",
+      "file_name": "downloads/PVZ重制版v1.9.5全平台通用.rpk",
+      "versionCode": 20
+    },
+    "xmb9": {
+      "version": "1.9.5",
+      "file_name": "downloads/PVZ重制版v1.9.5全平台通用.rpk",
+      "versionCode": 20
+    },
+    "xmb9p": {
+      "version": "1.9.5",
+      "file_name": "downloads/PVZ重制版v1.9.5全平台通用.rpk",
+      "versionCode": 20
     }
   },
   "ext": {}
